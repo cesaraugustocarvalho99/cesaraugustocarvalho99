@@ -11,8 +11,6 @@ Preparando-se para o mercado de tecnologia
 
 -🔍 Buscando evoluir em lógica de programação e desenvolvimento de software     
 
--📫 Contato: cesaraugustocarvalho99@gmail.com
-
 ## Tecnologias que estudo:
 <div style="display: inline_block"><br>
  <img align="center" alt="Python" height="40" width="40"
