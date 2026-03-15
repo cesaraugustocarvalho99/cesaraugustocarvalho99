@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**cesaraugustocarvalho99/cesaraugustocarvalho99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Olá, meu nome é César Augusto
+-🚀 Sobre mim
+-🎓 Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS |
+-Preparando-se para o mercado de tecnologia
+-💻 Focado em Python, HTML e CSS
+-📚 Sempre aprendendo novas linguagens e ferramentas
+-🔍 Buscando evoluir em lógica de programação e desenvolvimento de software
+-📫 Contato: cesaraugustocarvalho99@gmail.com
+##Tecnologias que estudo
+<div style="display: inline_block"><br>
+<img align="center" alt="Python" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="center" alt="HTML" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div>
